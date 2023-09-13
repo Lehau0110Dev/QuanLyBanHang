@@ -31,8 +31,8 @@ public class DonHangAdapter extends RecyclerView.Adapter<DonHangAdapter.BauHolde
         this.list = list;
     }
 
-    public DonHangAdapter(FragmentActivity activity, ArrayList<DonHang> listDonHang) {
-    }
+//    public DonHangAdapter(FragmentActivity activity, ArrayList<DonHang> listDonHang) {
+//    }
 
     @NonNull
     @Override

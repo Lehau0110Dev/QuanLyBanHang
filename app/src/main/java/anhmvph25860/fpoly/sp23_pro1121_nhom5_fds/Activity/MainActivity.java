@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         drawerLayout = findViewById(R.id.drawerLayout);
         toolbar = findViewById(R.id.toolbar);
         navigationView = findViewById(R.id.navigationView);
-        listDonHang = new ArrayList<anhmvph25860.fpoly.sp23_pro1121_nhom5_fds.DTO.DonHang>();
+        listDonHang = new ArrayList<>();
         if (listGioHang == null){
             listGioHang = new ArrayList<>();
         }
